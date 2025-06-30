@@ -1,2 +1,2 @@
 # Travel-Website
-A responsive project on travelling
+A responsive project on travelling lovers
